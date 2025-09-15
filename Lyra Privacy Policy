@@ -1,0 +1,50 @@
+# Lyra Privacy Policy
+
+**Lyra (“the Bot”) is a Discord music and utility bot. This Privacy Policy explains what data we collect, how we use it, and how users can control their information.**
+
+# 1. Information We Collect
+
+**When you use Lyra, we may collect the following limited data:**
+
+**Discord User ID – used to identify you for features like favourites, balance, premium, and profiles.**
+**Discord Server ID & Settings – used for configuration features such as prefix, filters, 24/7 mode, and premium settings.**
+**Spotify Account Link (optional) – only if you connect your Spotify account, for playlist integration.**
+**Command Usage Data – used temporarily to respond to your requests (e.g., .play, .queue).**
+**We do not collect or store: messages, passwords, payment details, or sensitive personal information.**
+
+# 2. How We Use Your Information
+
+**To provide music playback and bot functionality.**
+**To save your preferences (favourites, settings, premium status).**
+**To manage giveaways fairly.**
+**To improve stability and prevent abuse (rate limiting, error logs).**
+
+# 3. Data Storage & Retention
+
+**Data is stored securely in a cloud database.**
+**Spotify connections use OAuth and can be unlinked anytime with .unlinkspotify.**
+**User favourites or linked data can be cleared anytime with .clearlikes or by removing Lyra from the server.**
+**We retain only the minimum data necessary for Lyra to function.**
+
+# 4. Opt-Out & Data Deletion
+
+**Users can:**
+**Use .unlinkspotify to disconnect Spotify.**
+**Use .clearlikes to remove favourites.**
+**Remove Lyra from a server to stop all data collection for that server.**
+**Contact support at [your email/Discord support server link] to request full data deletion.**
+
+# 5. Sharing of Information
+
+**We do not sell or share personal data. Data may only be shared with third-party services necessary for Lyra’s functionality (e.g., Spotify API, Discord API).**
+
+# 6. Security
+
+**We take reasonable measures to protect your data, including encryption and limited access controls.**
+
+# 7. Contact
+
+**If you have questions about this Privacy Policy or wish to request data removal, contact us:**
+
+Support Server: [Support Server](https://discord.gg/auronix)
+owner: [Itz_End](https://discord.com/users/1073871959907110942) 
