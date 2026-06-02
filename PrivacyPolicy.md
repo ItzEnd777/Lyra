@@ -1,4 +1,4 @@
-# Lyra Privacy Policy
+# Privacy Policy
 
 Lyra (“the Bot”) is a Discord music and utility bot. This Privacy Policy explains what data we collect, how we use it, and how users can control their information.
 
